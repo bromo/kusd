@@ -1,4 +1,4 @@
-[![Gitter chat](https://badges.gitter.im/kowala/kcoin.png)](https://gitter.im/kowala-tech/kcoin) [![Public testnet](https://img.shields.io/badge/public-testnet-981071.svg)](http://testnet.kowala.io)
+[![Gitter chat](https://badges.gitter.im/kowala/kcoin.png)](https://gitter.im/kowala-tech/Lobby) [![Public testnet](https://img.shields.io/badge/public-testnet-981071.svg)](http://testnet.kowala.io)
 
 # The kUSD repo is currently private
 
@@ -8,4 +8,4 @@ For now, though, if you'd like to see or contribute to the source code, please c
 
 ## Contact us
 
-Feel free to email us at support@kowala.tech or talk to us on [Gitter](https://gitter.im/kowala-tech/kcoin).
+Feel free to email us at support@kowala.tech or talk to us on [Gitter](https://gitter.im/kowala-tech/Lobby).
